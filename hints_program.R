@@ -1,5 +1,5 @@
 library(haven)
-my_data <- read_dta("C:/Users/bvsba/Desktop/UIC/Summer Semester/Health care/Assignment 2/hints5_cycle2_public.dta")
+my_data <- read_dta("C:/Users/arjun/Desktop/UIC/Summer Semester/Health care/Assignment 2/hints5_cycle2_public.dta")
 
 manually_selected = c("Education",
 "Age",
